@@ -1,0 +1,18 @@
+{
+  "name": "mask-user-data",
+  "version": "1.0.4",
+  "description": "This will mask the user's data based on the parameters. it'll accept two parameters- original data (string) and index visible from (number) and returns a string. for example, the original data is `1234567890` (bank account number) and index visible from is 4, the output will be: `******7890`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/AritraDB/mask-user-data.git)"
+  },
+  "keywords": [
+    "mask-user-data"
+  ],
+  "author": "Aritra Das Bairagya",
+  "license": "ISC"
+}
